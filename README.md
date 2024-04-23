@@ -55,7 +55,8 @@ sudo dsnifff
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
-![image](https://github.com/AasrithSairam/ARP-Attack-and-Network-Sniffing/assets/139331438/4b40c2db-98a5-44e8-9ca9-2baacbaf8812)
+![ethical hacking final-212223240116-ponguru aasrith sairam-wireshark](https://github.com/AasrithSairam/ARP-Attack-and-Network-Sniffing/assets/139331438/436c9b36-5451-489c-a5a2-f50d8be0019b)
+
 
 
 ## RESULT:
